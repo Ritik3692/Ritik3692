@@ -1,19 +1,27 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif
 )](https://github.com/Ritik3692
 )
+
 <h1 align="center">Hi 👋, I'm Ritik Kashyap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Web developer from India</h3>
+
 
 <img  align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"  width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik3692&label=Profile%20views&color=0e75b6&style=flat" alt="ritik3692" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+- 💬 Ask me about **As a passionate web developer, I am dedicated to creating intuitive and dynamic user experiences. With a strong foundation in HTML, CSS, JavaScript, and PHP, I enjoy building responsive and user-friendly websites**
+
 - 📫 How to reach me **ritikkashyap2616@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritik-kashyap-0a7178248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-kashyap-0a7178248" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ritik49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritik49" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ritikkashyap464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ritikkashyap464" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ritik49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik49" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
