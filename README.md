@@ -68,7 +68,5 @@
 
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ritik3692/Ritik3692/output/snake.svg" alt="Snake animation" />
 
