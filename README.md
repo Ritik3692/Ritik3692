@@ -50,7 +50,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Ritik3692/Ritik3692/github-profile-trophy)
+
 ###
 
 <div align="center">
