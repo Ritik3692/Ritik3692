@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="35" alt="instagram logo"  />
-  <a href="ritikkashyap2616@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSKjsqhdVHjKgfhxMrPHgNHkncgvZkxKzGHvXtZvFVNSTzpGSfqZvkWJwFlLBBTxjPJgmVKr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/ritik-kashyap-0a7178248" target="_blank">
