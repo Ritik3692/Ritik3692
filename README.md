@@ -2,7 +2,7 @@
 )](https://github.com/Ritik3692
 )
 
-<h1 align="center">Hi 👋! My name is  Ritik kashyap and I'm  a  web developer  from  India</h1>
+<h1 align="center">Hi 👋! I Am Ritik kashyap </h1>
 
 ###
 
